@@ -64,7 +64,7 @@ Traces **Langfuse**, monitoring **Prometheus/Grafana**, évaluation **DeepEval**
 </td>
 <td width="50%" valign="top">
 
-#### 🎓 [RAG École](https://github.com/DHoudetot-Cyril/RAG)
+#### 🎓 [RAG École](https://github.com/DHoudetot-Cyril/rag-ecole)
 Assistant documentaire **sourcé** pour une école, avec **deux niveaux d'accès étanches** (élèves / direction).
 43 tests, CI, évaluation de la recherche (Hit@k, MRR).
 
